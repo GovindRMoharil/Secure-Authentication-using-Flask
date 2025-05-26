@@ -1,0 +1,4 @@
+flask
+gradio
+flask-jwt-extended
+bcrypt
