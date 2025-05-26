@@ -1,12 +1,20 @@
----
-title: SecureAuthentication
-emoji: 📊
-colorFrom: indigo
-colorTo: blue
-sdk: gradio
-sdk_version: 5.31.0
-app_file: app.py
-pinned: false
+# 🔐 Secure Authentication with Flask
+
+A Flask-based web application demonstrating secure user authentication using industry best practices. This project is designed as a starting point for developers looking to implement secure login systems in Flask.
+
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## 🚀 Features
+
+- ✅ User Registration & Login
+- 🔐 Password hashing using `bcrypt`
+- 🛡️ Session management with `Flask-Login`
+- 🧾 CSRF protection using `Flask-WTF`
+- 🧪 Input validation and error handling
+
+
+---
+
+
+
+
